@@ -1,1 +1,2 @@
-The code will run on the port labeled desktop, if port not shown add the port 6080 maually. Password is "vscode".
+# Text-Editor
+The code will run on a port labeled desktop(6080). If the port is not found, add it manually. The password is "vscode".
